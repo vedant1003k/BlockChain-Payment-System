@@ -29,7 +29,7 @@ A lightweight blockchain implementation in Go, complete with wallet generation, 
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/blockchain-app.git](https://github.com/vedant1003k/BlockChain-Payment-System.git)
+git clone https://github.com/vedant1003k/BlockChain-Payment-System.git
 cd BlockChain-Payment-System
 ```
 
