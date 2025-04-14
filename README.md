@@ -29,8 +29,8 @@ A lightweight blockchain implementation in Go, complete with wallet generation, 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/blockchain-app.git
-cd blockchain-app
+git clone [https://github.com/your-username/blockchain-app.git](https://github.com/vedant1003k/BlockChain-Payment-System.git)
+cd BlockChain-Payment-System
 ```
 
 ---
@@ -40,7 +40,7 @@ cd blockchain-app
 #### ➤ Step into the backend folder:
 
 ```bash
-cd backend
+cd blockchain_backend
 ```
 
 #### ➤ Run the server:
@@ -58,18 +58,18 @@ go run main.go
 #### ➤ Open another terminal:
 
 ```bash
-cd frontend
+cd blockchain
 npm install
-npm run dev
+npm start
 ```
 
-> This starts your frontend at `http://localhost:5173`
+> This starts your frontend at `http://localhost:3000`
 
 ---
 
 ## 🧪 Try It Out
 
-1. Open your browser → [http://localhost:5173](http://localhost:5173)
+1. Open your browser → [http://localhost:5173](http://localhost:3000)
 2. Use the interface to:
    - **Create wallets**
    - **Send transactions**
