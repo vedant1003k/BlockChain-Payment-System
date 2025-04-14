@@ -1,6 +1,3 @@
-Here’s the `README.md` template in a format ready for direct copy-pasting:
-
-```markdown
 # 🔗 Simple Blockchain App
 
 A lightweight blockchain implementation in Go, complete with wallet generation, transactions, mining, and a web-based frontend interface. Perfect for learning or demoing how blockchains work!
@@ -129,5 +126,3 @@ blockchain-app/
 - All data is stored in memory (no database)
 - CORS is enabled for local testing
 - Ideal for educational or prototype purposes
-
----
